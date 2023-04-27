@@ -1,0 +1,9 @@
+git clone 
+git init
+mkdir <dir name>
+New-Item <file.name>
+set-content <hgwuhsazjxcb>
+git add .
+git commit -m "new file by Jayaprakash"
+git push -u origin <branch name>
+git status
