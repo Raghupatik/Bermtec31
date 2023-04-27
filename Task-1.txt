@@ -1,0 +1,6 @@
+cka
+az-104
+az-400
+linux admin
+aws associate
+aws practioner
